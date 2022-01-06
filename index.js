@@ -26,6 +26,37 @@ const questions = [
         type:'input',
         name: 'usage',
         message:'Any instructions on how to use it? If so what?'
+    },
+    {
+        type:'input',
+        name: 'credits',
+        message:'Who collaborated on this project with you? (including tutorials you followed and third-party assets, with links)'
+    },
+    {
+        type: 'list',
+        name: 'license',
+        message: 'What licenses did you use if any?',
+        choices: ['MIT', 'APACHE', 'GPL', 'BSD', 'None']
+    },
+    {
+        type: 'input',
+        name:'contribute',
+        message: 'any guidelines on how to contribute to this project?'
+    },
+    {
+        type:'input',
+        name:'tests',
+        message:'any tests for this project? '
+    },
+    {
+        type:'input',
+        name:'github',
+        message:'What is your github username?'
+    },
+    {
+        type:'input',
+        name:'email',
+        message:'What is your email?'
     }
 ];
 
