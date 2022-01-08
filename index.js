@@ -6,6 +6,8 @@ const generateMarkdown = require('./utils/generateMarkdown');
 
 
 // TODO: Create an array of questions for user input
+
+
 const questions = [
     {
         type: 'input',
@@ -25,7 +27,8 @@ const questions = [
     {
         type:'input',
         name: 'usage',
-        message:'Any instructions on how to use it? If so what?'
+        message:'Any instructions on how to use it?' 
+        
     },
     {
         type:'input',
