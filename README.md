@@ -2,7 +2,7 @@
   
 ## Description
   
-This is readme generator. It is build using node js.
+This is readme generator. This project let you to create a professional readme file based on user inputs. It is build using node js.
   
 ## Table of Contents
 
