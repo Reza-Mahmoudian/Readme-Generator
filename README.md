@@ -26,7 +26,7 @@ This application can be used to build readme markdown file types using node js f
 
 ## Test
   
-* You can test this application by running it and checking the readme file which named " YOURREADME.md " that is generated in 'dist' folder inside the application folder on your local machine.
+* You can test this application by running it and checking the readme file which named " YOURREADME.md " that is generated inside the application folder on your local machine.
 
 ## Questions
 
