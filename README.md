@@ -12,6 +12,7 @@ This is readme generator. This project let you to create a professional readme f
   - [Installation](#installation)
   - [Usage](#usage)
   - [Test](#test)
+  - [Walkthrough Video](#walkthrough-video)
   - [Questions](#questions)
   
 ## Installation
@@ -27,6 +28,11 @@ This application can be used to build readme markdown file types using node js f
 ## Test
   
 * You can test this application by running it and checking the readme file which named " YOURREADME.md " that is generated inside the application folder on your local machine.
+
+## Walkthrough Video
+
+for more help check out this video 
+https://watch.screencastify.com/v/KTFz86wryfd2rJcEL8dI
 
 ## Questions
 
